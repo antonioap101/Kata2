@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bf00e3e-a7ad-485d-ba4f-83efb479bfd7" name="Changes" comment="Implemented Person Class">
+    <list default="true" id="0bf00e3e-a7ad-485d-ba4f-83efb479bfd7" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/BMIHistogramCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/CsvFilePersonLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/HistogramCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/PersonLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -37,10 +43,14 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="software.ulpgc.kata2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\Documents\ULPGC\3er Curso\1er Semestre\IS2\Practicas\Kata2" />
     </key>
@@ -126,12 +136,20 @@
       <option name="project" value="LOCAL" />
       <updated>1704157306161</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1704157393316</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704157393316</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial Commit" />
     <MESSAGE value="Implemented Person Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented Person Class" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
