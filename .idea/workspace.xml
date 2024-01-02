@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bf00e3e-a7ad-485d-ba4f-83efb479bfd7" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/Person.java" afterDir="false" />
+    <list default="true" id="0bf00e3e-a7ad-485d-ba4f-83efb479bfd7" name="Changes" comment="Implemented Person Class">
+      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/PersonLoader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -118,12 +118,20 @@
       <option name="project" value="LOCAL" />
       <updated>1704157225354</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Implemented Person Class">
+      <option name="closed" value="true" />
+      <created>1704157306161</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704157306161</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implemented Person Class" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Implemented Person Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented Person Class" />
   </component>
 </project>
