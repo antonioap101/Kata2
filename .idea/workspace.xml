@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bf00e3e-a7ad-485d-ba4f-83efb479bfd7" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/bmi_dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/Person.java" afterDir="false" />
+    <list default="true" id="0bf00e3e-a7ad-485d-ba4f-83efb479bfd7" name="Changes" comment="Implemented Person class + added BMI Dataset">
+      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/BMIHistogramCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/CsvFilePersonLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/HistogramCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/PersonLoader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -220,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704160399086</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Implemented Person class + added BMI Dataset">
+      <option name="closed" value="true" />
+      <created>1704160467439</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1704160467439</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -229,6 +239,7 @@
     <MESSAGE value="Implemented Person Class + Added BMI dataset" />
     <MESSAGE value="Implmented Person class + BMI Dataset" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Implemented Person class + added BMI Dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented Person class + added BMI Dataset" />
   </component>
 </project>
